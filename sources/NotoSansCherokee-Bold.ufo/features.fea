@@ -179,6 +179,7 @@ lookup Unicase {
 } Unicase;
 
 feature ss01 {
+featureNames { name "Unicase"; };
 lookup Unicase;
 } ss01;
 
